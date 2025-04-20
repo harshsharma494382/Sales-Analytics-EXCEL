@@ -1,4 +1,4 @@
-#📊 Sales Dashboard in Excel
+# 📊 Sales Dashboard in Excel
 
 This project features an **interactive Sales Dashboard** built using Microsoft Excel, providing a visual summary of sales performance between **2020 and 2023**. It allows users to filter data, explore insights, and make data-driven decisions with ease.
 
