@@ -46,3 +46,7 @@ It helps uncover trends, understand customer behavior, and analyze regional perf
 ## 📷 Preview
 !["C:\Users\HP\OneDrive\Pictures\Screenshots 1\Screenshot 2025-04-20 123802.png"](https://github.com/user-attachments/assets/2c09f3d2-0c33-4686-a670-af5546e7de53)
 
+### Email = Harsharma494382@gmail.com
+### Mobile number = 7876647175
+### linkedin = https://www.linkedin.com/in/harsh-sharma-702278347/overlay/about-this-profile/
+
