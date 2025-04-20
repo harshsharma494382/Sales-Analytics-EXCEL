@@ -42,3 +42,7 @@ This dashboard is ideal for:
 - Decision-Makers  
 
 It helps uncover trends, understand customer behavior, and analyze regional performance to support strategic planning.
+
+## 📷 Preview
+!["C:\Users\HP\OneDrive\Pictures\Screenshots 1\Screenshot 2025-04-20 123802.png"](https://github.com/user-attachments/assets/2c09f3d2-0c33-4686-a670-af5546e7de53)
+
